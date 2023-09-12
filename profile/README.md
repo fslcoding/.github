@@ -2,7 +2,8 @@
 
 _The Official Github Page for both DT and SSD revision_
 
-IMAGE HERE
+![image](https://github.com/fslcoding/.github/assets/62078259/73f6468d-99f8-45fe-8eeb-5242b2c10844)
+
 
 ## What is Github?
 
