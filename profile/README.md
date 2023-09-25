@@ -23,8 +23,13 @@ This Github is a collection of code that has been written specifically for your 
 + [Data Types in C#](https://github.com/fslcoding/Data-Types)
 + [C# Practical One](https://github.com/fslcoding/Practical-1)
 
+
 _If you are more advanced 🥇:_
 
 + [Classes in C#](https://github.com/fslcoding/Classes)
 + [Inheritance in C#](https://github.com/fslcoding/Inheritance)
 + [Lists in C#](https://github.com/fslcoding/Lists)
+
+_Look through our guides ‼️:_
+
++ [A list of our guides](https://github.com/orgs/fslcoding/repositories?q=guide&type=all&language=&sort=)
